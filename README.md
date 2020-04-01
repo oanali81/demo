@@ -8,3 +8,5 @@ Carona Virus is a deadly virus.
 
 
 These changes are done in the branch.
+
+Changing readme for stashing example. 
